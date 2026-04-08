@@ -1,0 +1,8 @@
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\bin\Debug\LambdaExperssion.exe.config
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\bin\Debug\LambdaExperssion.exe
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\bin\Debug\LambdaExperssion.pdb
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\obj\Debug\LambdaExperssion.csproj.AssemblyReference.cache
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\obj\Debug\LambdaExperssion.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\obj\Debug\LambdaExperssion.exe
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\obj\Debug\LambdaExperssion.pdb
+D:\Mastering_CSharp\LambdaExperssion\LambdaExperssion\obj\Debug\LambdaExperssion.exe.config
