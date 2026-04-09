@@ -1,0 +1,8 @@
+D:\Mastering_CSharp\Delegates\FuncDelegates\bin\Debug\FuncDelegates.exe.config
+D:\Mastering_CSharp\Delegates\FuncDelegates\bin\Debug\FuncDelegates.exe
+D:\Mastering_CSharp\Delegates\FuncDelegates\bin\Debug\FuncDelegates.pdb
+D:\Mastering_CSharp\Delegates\FuncDelegates\obj\Debug\FuncDelegates.csproj.AssemblyReference.cache
+D:\Mastering_CSharp\Delegates\FuncDelegates\obj\Debug\FuncDelegates.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\Delegates\FuncDelegates\obj\Debug\FuncDelegates.exe
+D:\Mastering_CSharp\Delegates\FuncDelegates\obj\Debug\FuncDelegates.pdb
+D:\Mastering_CSharp\Delegates\FuncDelegates\obj\Debug\FuncDelegates.exe.config

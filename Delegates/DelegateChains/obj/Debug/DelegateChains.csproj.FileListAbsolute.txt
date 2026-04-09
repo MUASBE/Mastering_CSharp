@@ -1,0 +1,8 @@
+D:\Mastering_CSharp\Delegates\DelegateChains\bin\Debug\DelegateChains.exe.config
+D:\Mastering_CSharp\Delegates\DelegateChains\bin\Debug\DelegateChains.exe
+D:\Mastering_CSharp\Delegates\DelegateChains\bin\Debug\DelegateChains.pdb
+D:\Mastering_CSharp\Delegates\DelegateChains\obj\Debug\DelegateChains.csproj.AssemblyReference.cache
+D:\Mastering_CSharp\Delegates\DelegateChains\obj\Debug\DelegateChains.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\Delegates\DelegateChains\obj\Debug\DelegateChains.exe
+D:\Mastering_CSharp\Delegates\DelegateChains\obj\Debug\DelegateChains.pdb
+D:\Mastering_CSharp\Delegates\DelegateChains\obj\Debug\DelegateChains.exe.config
