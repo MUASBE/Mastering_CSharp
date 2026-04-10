@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mastering_CSharp\\ObserverPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79BDEC-90A4-447D-B778-2B4C6EDAA87D}|ObserverPattern\\ObserverPattern.csproj|d:\\mastering_csharp\\observerpattern\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE79BDEC-90A4-447D-B778-2B4C6EDAA87D}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mastering_CSharp\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
+              "ToolTip": "D:\\Mastering_CSharp\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "ObserverPattern\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T07:18:27.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

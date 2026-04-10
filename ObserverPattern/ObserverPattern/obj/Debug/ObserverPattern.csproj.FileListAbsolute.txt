@@ -1,0 +1,8 @@
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.AssemblyReference.cache
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+D:\Mastering_CSharp\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe.config
