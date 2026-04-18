@@ -1,0 +1,15 @@
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\bin\Debug\net8.0\News_Publisher_Example.exe
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\bin\Debug\net8.0\News_Publisher_Example.deps.json
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\bin\Debug\net8.0\News_Publisher_Example.runtimeconfig.json
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\bin\Debug\net8.0\News_Publisher_Example.dll
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\bin\Debug\net8.0\News_Publisher_Example.pdb
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.AssemblyInfoInputs.cache
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.AssemblyInfo.cs
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.sourcelink.json
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.dll
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\refint\News_Publisher_Example.dll
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.pdb
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\News_Publisher_Example.genruntimeconfig.cache
+D:\Mastering_CSharp\News_Publisher_Example\News_Publisher_Example\obj\Debug\net8.0\ref\News_Publisher_Example.dll

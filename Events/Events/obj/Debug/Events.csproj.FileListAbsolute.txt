@@ -1,0 +1,8 @@
+D:\Mastering_CSharp\Events\Events\bin\Debug\Events.exe.config
+D:\Mastering_CSharp\Events\Events\bin\Debug\Events.exe
+D:\Mastering_CSharp\Events\Events\bin\Debug\Events.pdb
+D:\Mastering_CSharp\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\Mastering_CSharp\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\Events\Events\obj\Debug\Events.exe
+D:\Mastering_CSharp\Events\Events\obj\Debug\Events.pdb
+D:\Mastering_CSharp\Events\Events\obj\Debug\Events.exe.config

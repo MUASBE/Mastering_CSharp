@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mastering_CSharp\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E98471FE-9B44-4654-9356-D9005E1F6269}|Project1\\Project1.csproj|d:\\mastering_csharp\\project1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98471FE-9B44-4654-9356-D9005E1F6269}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98471FE-9B44-4654-9356-D9005E1F6269}|Project1\\Project1.csproj|d:\\mastering_csharp\\project1\\project1\\clsgradingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98471FE-9B44-4654-9356-D9005E1F6269}|Project1\\Project1.csproj|solutionrelative:project1\\clsgradingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mastering_CSharp\\LambdaExperssion\\LambdaExperssion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98471FE-9B44-4654-9356-D9005E1F6269}|Project1\\Project1.csproj|d:\\mastering_csharp\\project1\\project1\\clsstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98471FE-9B44-4654-9356-D9005E1F6269}|Project1\\Project1.csproj|solutionrelative:project1\\clsstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mastering_CSharp\\LambdaExperssion\\LambdaExperssion\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LambdaExperssion\\LambdaExperssion\\Program.cs",
+              "ToolTip": "D:\\Mastering_CSharp\\LambdaExperssion\\LambdaExperssion\\Program.cs",
+              "RelativeToolTip": "..\\LambdaExperssion\\LambdaExperssion\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T22:05:50.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsGradingSystem.cs",
+              "DocumentMoniker": "D:\\Mastering_CSharp\\Project1\\Project1\\clsGradingSystem.cs",
+              "RelativeDocumentMoniker": "Project1\\clsGradingSystem.cs",
+              "ToolTip": "D:\\Mastering_CSharp\\Project1\\Project1\\clsGradingSystem.cs",
+              "RelativeToolTip": "Project1\\clsGradingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:46:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mastering_CSharp\\Project1\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "D:\\Mastering_CSharp\\Project1\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFAAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:18:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsStudent.cs",
+              "DocumentMoniker": "D:\\Mastering_CSharp\\Project1\\Project1\\clsStudent.cs",
+              "RelativeDocumentMoniker": "Project1\\clsStudent.cs",
+              "ToolTip": "D:\\Mastering_CSharp\\Project1\\Project1\\clsStudent.cs",
+              "RelativeToolTip": "Project1\\clsStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:18:51.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\bin\Debug\Event_Example_WinForm.exe.config
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\bin\Debug\Event_Example_WinForm.exe
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\bin\Debug\Event_Example_WinForm.pdb
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.csproj.AssemblyReference.cache
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.CtrlCalculation.resources
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.Properties.Resources.resources
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.csproj.GenerateResource.cache
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.exe
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.pdb
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.exe.config
+D:\Mastering_CSharp\Event_Example_WinForm\Event_Example_WinForm\obj\Debug\Event_Example_WinForm.Form1.resources

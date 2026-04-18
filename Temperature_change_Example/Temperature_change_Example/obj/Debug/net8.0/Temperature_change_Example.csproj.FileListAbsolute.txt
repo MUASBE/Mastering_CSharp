@@ -1,0 +1,15 @@
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\bin\Debug\net8.0\Temperature_change_Example.exe
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\bin\Debug\net8.0\Temperature_change_Example.deps.json
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\bin\Debug\net8.0\Temperature_change_Example.runtimeconfig.json
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\bin\Debug\net8.0\Temperature_change_Example.dll
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\bin\Debug\net8.0\Temperature_change_Example.pdb
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.AssemblyInfoInputs.cache
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.AssemblyInfo.cs
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.csproj.CoreCompileInputs.cache
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.sourcelink.json
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.dll
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\refint\Temperature_change_Example.dll
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.pdb
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\Temperature_change_Example.genruntimeconfig.cache
+D:\Mastering_CSharp\Temperature_change_Example\Temperature_change_Example\obj\Debug\net8.0\ref\Temperature_change_Example.dll
